@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205465658488",
+    "firebase_url": "https://videorecording-5511b.firebaseio.com",
+    "project_id": "videorecording-5511b",
+    "storage_bucket": "videorecording-5511b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205465658488:android:c2a04a8d72dccd1828798d",
+        "android_client_info": {
+          "package_name": "com.google.ar.sceneform.samples.videorecording"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205465658488-6t4chm836jnp2s0aqd7ijl9c09mk7h5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.ar.sceneform.samples.videorecording",
+            "certificate_hash": "df867507cc7da0a870b9e9850791394ba05e608b"
+          }
+        },
+        {
+          "client_id": "205465658488-j71evd5c4gd2uoqu4258op5avapr26oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GkdfouYsQ8S7HzARb_UaPS1yb_aUbZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205465658488-j71evd5c4gd2uoqu4258op5avapr26oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
